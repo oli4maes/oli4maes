@@ -1,5 +1,5 @@
 <h1 align="center">Olivier Maes</h1>
-<h3 align="center">Fullstack .NET Developer based in Belgium</h3>
+<h3 align="center">.NET Developer based in Belgium</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
